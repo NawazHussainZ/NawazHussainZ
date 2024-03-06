@@ -28,8 +28,8 @@
       <img align="right" src="https://github.com/alekha1234/alekha1234/blob/main/documents/nasscom-logo.png" alt="NASSCOM" width="100" height="100"/>&nbsp; 
     </p>
     <p>
-      <img align="left" src="https://github.com/NawazHussainZ/NawazHussainZ/blob/main/hse-odisha.jpg" alt="HSE-Odisha" width="100" height="100"/>&nbsp; &nbsp; &nbsp; &nbsp; 
-      <img align="right" src="https://github.com/NawazHussainZ/NawazHussainZ/blob/main/simplilearn-logo.jpg" alt="Simplilearn" width="100" height="100"/>&nbsp; &nbsp; &nbsp; &nbsp; 
+      <img align="left" src="https://github.com/NawazHussainZ/NawazHussainZ/blob/main/dav.gif" alt="DAV" width="100" height="100"/>&nbsp; &nbsp; &nbsp; &nbsp; 
+      <img align="right" src="https://github.com/NawazHussainZ/NawazHussainZ/blob/main/skillup.png" alt="SkillUP" width="100" height="100"/>&nbsp; &nbsp; &nbsp; &nbsp; 
     </p><br><br><br>
 </div>
 
@@ -49,7 +49,7 @@
       <img src="https://github.com/NawazHussainZ/NawazHussainZ/blob/main/mysql.png" alt="MySQL" width="80" height="80"/>&nbsp;
       <img src="https://github.com/NawazHussainZ/NawazHussainZ/blob/main/mongodb.png" alt="Mongo DB" width="80" height="80"/>&nbsp;
       <img src="https://github.com/NawazHussainZ/NawazHussainZ/blob/main/jupyter.png" alt="Jupyter Notebook" width="80" height="80"/>&nbsp;
-      <img src="https://github.com/alekha1234/alekha1234/blob/main/documents/vscode.jpg" alt="VS code" width="80" height="80"/>&nbsp;
+      <img src="https://github.com/NawazHussainZ/NawazHussainZ/blob/main/vscode.jpg" alt="VS code" width="80" height="80"/>&nbsp;
       <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="80" height="80"/>&nbsp; 
     </p>
 </div>
