@@ -21,7 +21,7 @@
   <h3 align="right">Certifications:</h3>
     <p>
       <img align="left" src="https://github.com/NawazHussainZ/NawazHussainZ/blob/main/mgr.jpg" alt="Dr MGR University" width="150" height="100"/>&nbsp; 
-      <img align="right" src="https://github.com/NawazHussainZ/NawazHussainZ/blob/main/documents/iabac-logo.jpg" alt="IABAC" width="100" height="100"/>&nbsp;  
+      <img align="right" src="https://github.com/NawazHussainZ/NawazHussainZ/blob/main/iabac.jpg" alt="IABAC" width="100" height="100"/>&nbsp;  
     </p>
     <p>
       <img align="left" src="https://github.com/NawazHussainZ/NawazHussainZ/blob/main/datamites.webp" alt="CHSE-Odisha" width="100" height="100"/>&nbsp; 
@@ -45,7 +45,7 @@
       <img src="https://github.com/alekha1234/alekha1234/blob/main/documents/sciket-learn.png" alt="Sciket-Learn" width="80" height="80"/>&nbsp;
       <img src="https://github.com/alekha1234/alekha1234/blob/main/documents/tensorflow.jpg" alt="Tensorflow" width="80" height="80"/>&nbsp;
       <img src="https://github.com/alekha1234/alekha1234/blob/main/documents/keras.jpg" alt="Keras" width="80" height="80"/>&nbsp;
-      <img src="https://github.com/alekha1234/alekha1234/blob/main/documents/flask-logo.png" alt="Flask" width="80" height="80"/>&nbsp;
+      <img src="https://github.com/NawazHussainZ/NawazHussainZ/blob/main/flask.png" alt="Flask" width="80" height="80"/>&nbsp;
       <img src="https://github.com/alekha1234/alekha1234/blob/main/documents/scrapy.png" alt="Scrapy" width="80" height="80"/>&nbsp;
       <img src="https://github.com/alekha1234/alekha1234/blob/main/documents/selenium.png" alt="Selenium" width="80" height="80"/>&nbsp;
       <img src="https://github.com/alekha1234/alekha1234/blob/main/documents/beautiful-soup.png" alt="Beautiful Soup" width="80" height="80"/>&nbsp;
