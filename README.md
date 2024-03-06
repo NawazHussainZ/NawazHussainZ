@@ -24,12 +24,12 @@
       <img align="right" src="https://github.com/NawazHussainZ/NawazHussainZ/blob/main/iabac.jpg" alt="IABAC" width="100" height="100"/>&nbsp;  
     </p>
     <p>
-      <img align="left" src="https://github.com/NawazHussainZ/NawazHussainZ/blob/main/datamites.webp" alt="CHSE-Odisha" width="100" height="100"/>&nbsp; 
+      <img align="left" src="https://github.com/NawazHussainZ/NawazHussainZ/blob/main/datamites.webp" alt="DataMites" width="100" height="100"/>&nbsp; 
       <img align="right" src="https://github.com/alekha1234/alekha1234/blob/main/documents/nasscom-logo.png" alt="NASSCOM" width="100" height="100"/>&nbsp; 
     </p>
     <p>
-      <img align="left" src="https://github.com/alekha1234/alekha1234/blob/main/documents/hse-odisha.jpg" alt="HSE-Odisha" width="100" height="100"/>&nbsp; &nbsp; &nbsp; &nbsp; 
-      <img align="right" src="https://github.com/alekha1234/alekha1234/blob/main/documents/simplilearn-logo.jpg" alt="Simplilearn" width="100" height="100"/>&nbsp; &nbsp; &nbsp; &nbsp; 
+      <img align="left" src="https://github.com/NawazHussainZ/NawazHussainZ/blob/main/hse-odisha.jpg" alt="HSE-Odisha" width="100" height="100"/>&nbsp; &nbsp; &nbsp; &nbsp; 
+      <img align="right" src="https://github.com/NawazHussainZ/NawazHussainZ/blob/main/simplilearn-logo.jpg" alt="Simplilearn" width="100" height="100"/>&nbsp; &nbsp; &nbsp; &nbsp; 
     </p><br><br><br>
 </div>
 
@@ -37,23 +37,18 @@
 <div>
   <h3 align="left">Languages and Tools:</h3>
     <p align="left">
-      <img src="https://github.com/alekha1234/alekha1234/blob/main/documents/python-logo.jpg" alt="Python" width="80" height="80"/>&nbsp;
-      <img src="https://github.com/alekha1234/alekha1234/blob/main/documents/numpy-logo.png" alt="Numpy" width="80" height="80"/>&nbsp;
-      <img src="https://github.com/alekha1234/alekha1234/blob/main/documents/pandas-logo.png" alt="Pandas" width="80" height="80"/>&nbsp;
-      <img src="https://github.com/alekha1234/alekha1234/blob/main/documents/matplotlib-logo.png" alt="Matplotlib" width="80" height="80"/>&nbsp;
-      <img src="https://github.com/alekha1234/alekha1234/blob/main/documents/seaborn-logo.png" alt="Seaborn" width="80" height="80"/>&nbsp;
-      <img src="https://github.com/alekha1234/alekha1234/blob/main/documents/sciket-learn.png" alt="Sciket-Learn" width="80" height="80"/>&nbsp;
-      <img src="https://github.com/alekha1234/alekha1234/blob/main/documents/tensorflow.jpg" alt="Tensorflow" width="80" height="80"/>&nbsp;
-      <img src="https://github.com/alekha1234/alekha1234/blob/main/documents/keras.jpg" alt="Keras" width="80" height="80"/>&nbsp;
+      <img src="https://github.com/NawazHussainZ/NawazHussainZ/blob/main/python.webp" alt="Python" width="80" height="80"/>&nbsp;
+      <img src="https://github.com/NawazHussainZ/NawazHussainZ/blob/main/numpy.png" alt="Numpy" width="80" height="80"/>&nbsp;
+      <img src="https://github.com/NawazHussainZ/NawazHussainZ/blob/main/pandas.png" alt="Pandas" width="80" height="80"/>&nbsp;
+      <img src="https://github.com/NawazHussainZ/NawazHussainZ/blob/main/matplot.png" alt="Matplotlib" width="80" height="80"/>&nbsp;
+      <img src="https://github.com/NawazHussainZ/NawazHussainZ/blob/main/seaborn.svg" alt="Seaborn" width="80" height="80"/>&nbsp;
+      <img src="https://github.com/NawazHussainZ/NawazHussainZ/blob/main/sklearn.png" alt="Sciket-Learn" width="80" height="80"/>&nbsp;
       <img src="https://github.com/NawazHussainZ/NawazHussainZ/blob/main/flask.png" alt="Flask" width="80" height="80"/>&nbsp;
-      <img src="https://github.com/alekha1234/alekha1234/blob/main/documents/scrapy.png" alt="Scrapy" width="80" height="80"/>&nbsp;
-      <img src="https://github.com/alekha1234/alekha1234/blob/main/documents/selenium.png" alt="Selenium" width="80" height="80"/>&nbsp;
-      <img src="https://github.com/alekha1234/alekha1234/blob/main/documents/beautiful-soup.png" alt="Beautiful Soup" width="80" height="80"/>&nbsp;
-      <img src="https://github.com/alekha1234/alekha1234/blob/main/documents/powerbi-logo.png" alt="Power BI" width="80" height="80"/>&nbsp;
-      <img src="https://github.com/alekha1234/alekha1234/blob/main/documents/tableau-logo.png" alt="Tableau" width="80" height="80"/>&nbsp;
-      <img src="https://github.com/alekha1234/alekha1234/blob/main/documents/mysql-logo.png" alt="MySQL" width="80" height="80"/>&nbsp;
-      <img src="https://github.com/alekha1234/alekha1234/blob/main/documents/mongodb.png" alt="Mongo DB" width="80" height="80"/>&nbsp;
-      <img src="https://github.com/alekha1234/alekha1234/blob/main/documents/jupyter.png" alt="Jupyter Notebook" width="80" height="80"/>&nbsp;
+      <img src="https://github.com/NawazHussainZ/NawazHussainZ/blob/main/powerbi.webp" alt="Power BI" width="80" height="80"/>&nbsp;
+      <img src="https://github.com/NawazHussainZ/NawazHussainZ/blob/main/tableau.png" alt="Tableau" width="80" height="80"/>&nbsp;
+      <img src="https://github.com/NawazHussainZ/NawazHussainZ/blob/main/mysql.png" alt="MySQL" width="80" height="80"/>&nbsp;
+      <img src="https://github.com/NawazHussainZ/NawazHussainZ/blob/main/mongodb.png" alt="Mongo DB" width="80" height="80"/>&nbsp;
+      <img src="https://github.com/NawazHussainZ/NawazHussainZ/blob/main/jupyter.png" alt="Jupyter Notebook" width="80" height="80"/>&nbsp;
       <img src="https://github.com/alekha1234/alekha1234/blob/main/documents/vscode.jpg" alt="VS code" width="80" height="80"/>&nbsp;
       <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="80" height="80"/>&nbsp; 
     </p>
